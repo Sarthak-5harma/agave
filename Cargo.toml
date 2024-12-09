@@ -559,7 +559,7 @@ solana-rpc-client-api = { path = "rpc-client-api", version = "=2.2.0" }
 solana-rpc-client-nonce-utils = { path = "rpc-client-nonce-utils", version = "=2.2.0" }
 solana-runtime = { path = "runtime", version = "=2.2.0" }
 solana-runtime-transaction = { path = "runtime-transaction", version = "=2.2.0" }
-solana-sdk = { path = "sdk", version = "=2.2.0" }
+solana-sdk = { path = "sdk", version = "=1.18.17" }
 solana-sdk-ids = { path = "sdk/sdk-ids", version = "=2.2.0" }
 solana-sdk-macro = { path = "sdk/macro", version = "=2.2.0" }
 solana-secp256k1-program = { path = "sdk/secp256k1-program", version = "=2.2.0" }
